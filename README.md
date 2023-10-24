@@ -1,4 +1,3 @@
-PICTURES: 
 ![image](https://github.com/EntityBossBlood/MinecartsRailsPack/assets/148834782/552ab0b2-8658-49c1-a945-1309c9410355)
 ![image](https://github.com/EntityBossBlood/MinecartsRailsPack/assets/148834782/9395b7a7-ec30-48c2-8d0f-6a07b42988c8)
 
